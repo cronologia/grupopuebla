@@ -1,0 +1,276 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-07-30",
+  "snapshots": {
+    "http://www.cubadebate.cu/noticias/2021/02/11/grupo-de-puebla-presenta-manifiesto-progresista-para-contrarrestar-al-neoliberalismo/": {
+      "refId": "cubadebate-manifiesto",
+      "archiveUrl": "https://web.archive.org/web/20220927145202/http://www.cubadebate.cu/noticias/2021/02/11/grupo-de-puebla-presenta-manifiesto-progresista-para-contrarrestar-al-neoliberalismo/",
+      "timestamp": "20220927145202",
+      "checkedAt": "2026-07-30"
+    },
+    "https://dialogopolitico.org/agenda/izquierda-autoritaria-galaxia-rosa-honduras/": {
+      "refId": "dialogo-galaxia",
+      "archiveUrl": "https://web.archive.org/web/20260422224545/https://dialogopolitico.org/agenda/izquierda-autoritaria-galaxia-rosa-honduras/",
+      "timestamp": "20260422224545",
+      "checkedAt": "2026-07-30"
+    },
+    "https://en.wikipedia.org/wiki/Progressive_International": {
+      "refId": "wikipedia-pi",
+      "archiveUrl": "https://web.archive.org/web/20260726131708/https://en.wikipedia.org/wiki/Progressive_International",
+      "timestamp": "20260726131708",
+      "checkedAt": "2026-07-30"
+    },
+    "https://es.wikipedia.org/wiki/Grupo_de_Puebla": {
+      "refId": "wikipedia-es",
+      "archiveUrl": "https://web.archive.org/web/20260113233729/https://es.wikipedia.org/wiki/Grupo_de_Puebla",
+      "timestamp": "20260113233729",
+      "checkedAt": "2026-07-30"
+    },
+    "https://interferencia.cl/articulos/ixo-encuentro-del-grupo-de-puebla-advertimos-el-crecimiento-en-latinoamerica-de-una": {
+      "refId": "interferencia-ix",
+      "archiveUrl": "https://web.archive.org/web/20251117155923/https://interferencia.cl/articulos/ixo-encuentro-del-grupo-de-puebla-advertimos-el-crecimiento-en-latinoamerica-de-una",
+      "timestamp": "20251117155923",
+      "checkedAt": "2026-07-30"
+    },
+    "https://lulalivre.org.br/2021/12/13/lula-e-dilma-se-manifestam-pela-liberdade-de-assange-junto-ao-grupo-de-puebla/": {
+      "refId": "lulalivre-assange",
+      "archiveUrl": "https://web.archive.org/web/20260516114524/https://lulalivre.org.br/2021/12/13/lula-e-dilma-se-manifestam-pela-liberdade-de-assange-junto-ao-grupo-de-puebla/",
+      "timestamp": "20260516114524",
+      "checkedAt": "2026-07-30"
+    },
+    "https://redh-cuba.org/2019/07/declaracion-de-puebla/": {
+      "refId": "redh-declaracion",
+      "archiveUrl": "https://web.archive.org/web/20260313213156/https://redh-cuba.org/2019/07/declaracion-de-puebla/",
+      "timestamp": "20260313213156",
+      "checkedAt": "2026-07-30"
+    },
+    "https://rpp.pe/mundo/argentina/javier-milei-una-alternativa-en-argentina-al-grupo-de-puebla-y-al-foro-de-sao-paulo-senalo-director-de-disenso-noticia-1518052": {
+      "refId": "rpp-disenso",
+      "archiveUrl": "https://web.archive.org/web/20250113070719/https://rpp.pe/mundo/argentina/javier-milei-una-alternativa-en-argentina-al-grupo-de-puebla-y-al-foro-de-sao-paulo-senalo-director-de-disenso-noticia-1518052",
+      "timestamp": "20250113070719",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.biobiochile.cl/noticias/nacional/chile/2022/11/10/presidente-boric-envia-saludo-a-grupo-de-puebla-nos-necesitamos-mas-unidos-que-nunca.shtml": {
+      "refId": "biobio-boric",
+      "archiveUrl": "https://web.archive.org/web/20250316033604/https://www.biobiochile.cl/noticias/nacional/chile/2022/11/10/presidente-boric-envia-saludo-a-grupo-de-puebla-nos-necesitamos-mas-unidos-que-nunca.shtml",
+      "timestamp": "20250316033604",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.cubainformacion.tv/america-latina/20251224/119737/119737-grupo-de-puebla-e-internacional-progresista-condenan-cerco-a-venezuela": {
+      "refId": "cubainformacion-venezuela",
+      "archiveUrl": "https://web.archive.org/web/20251224124414/https://www.cubainformacion.tv/america-latina/20251224/119737/119737-grupo-de-puebla-e-internacional-progresista-condenan-cerco-a-venezuela",
+      "timestamp": "20251224124414",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.diariolasamericas.com/america-latina/grupo-puebla-nuevo-rostro-del-moribundo-foro-sao-paulo-n4219665": {
+      "refId": "diariolasamericas-mito",
+      "archiveUrl": "https://web.archive.org/web/20260122201501/https://www.diariolasamericas.com/america-latina/grupo-puebla-nuevo-rostro-del-moribundo-foro-sao-paulo-n4219665",
+      "timestamp": "20260122201501",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.diariolibre.com/mundo/america-latina/2025/05/13/murio-el-expresidente-uruguayo-jose-pepe-mujica/3110753": {
+      "refId": "diariolibre-mujica",
+      "archiveUrl": "https://web.archive.org/web/20260414130526/https://www.diariolibre.com/mundo/america-latina/2025/05/13/murio-el-expresidente-uruguayo-jose-pepe-mujica/3110753",
+      "timestamp": "20260414130526",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.emol.com/noticias/Internacional/2020/01/24/974540/Grupo-Puebla-Baltasar-Garzon-DDHH.html": {
+      "refId": "emol-clajud",
+      "archiveUrl": "https://web.archive.org/web/20250209171928/https://www.emol.com/noticias/Internacional/2020/01/24/974540/Grupo-Puebla-Baltasar-Garzon-DDHH.html",
+      "timestamp": "20250209171928",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.emol.com/noticias/Internacional/2021/11/30/1039967/grupo-puebla-apoyo-boric-elecciones.html": {
+      "refId": "emol-boric",
+      "archiveUrl": "https://web.archive.org/web/20250203124655/https://www.emol.com/noticias/Internacional/2021/11/30/1039967/grupo-puebla-apoyo-boric-elecciones.html",
+      "timestamp": "20250203124655",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.emol.com/noticias/Internacional/2024/05/23/1131610/grupo-puebla-respuesta-milei.html": {
+      "refId": "emol-milei",
+      "archiveUrl": "https://web.archive.org/web/20240905182044/https://www.emol.com/noticias/Internacional/2024/05/23/1131610/grupo-puebla-respuesta-milei.html",
+      "timestamp": "20240905182044",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.emol.com/noticias/Internacional/2024/08/09/1139184/grupo-puebla-cuestionamientos-venezuela-albertofernandez.html": {
+      "refId": "emol-crisis",
+      "archiveUrl": "https://web.archive.org/web/20260502163851/https://www.emol.com/noticias/Internacional/2024/08/09/1139184/grupo-puebla-cuestionamientos-venezuela-albertofernandez.html",
+      "timestamp": "20260502163851",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.ex-ante.cl/video-el-mensaje-de-boric-al-grupo-de-puebla-el-foro-de-la-izquierda-latinoamericana-o-nos-salvamos-juntos-o-nos-hundimos-por-separado/": {
+      "refId": "exante-boric",
+      "archiveUrl": "https://web.archive.org/web/20250719112320/https://www.ex-ante.cl/video-el-mensaje-de-boric-al-grupo-de-puebla-el-foro-de-la-izquierda-latinoamericana-o-nos-salvamos-juntos-o-nos-hundimos-por-separado/",
+      "timestamp": "20250719112320",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.gisreportsonline.com/r/sao-paulo-forum/": {
+      "refId": "gisreports-fsp",
+      "archiveUrl": "https://web.archive.org/web/20260314020258/https://www.gisreportsonline.com/r/sao-paulo-forum/",
+      "timestamp": "20260314020258",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/clajud/": {
+      "refId": "gdp-clajud",
+      "archiveUrl": "https://web.archive.org/web/20260412063713/https://www.grupodepuebla.org/en/clajud/",
+      "timestamp": "20260412063713",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/comunicado-de-prensa-del-grupo-de-puebla-sobre-las-elecciones-en-venezuela/": {
+      "refId": "gdp-venezuela",
+      "archiveUrl": "https://web.archive.org/web/20230927182803/https://www.grupodepuebla.org/en/comunicado-de-prensa-del-grupo-de-puebla-sobre-las-elecciones-en-venezuela/",
+      "timestamp": "20230927182803",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/comunicados/": {
+      "refId": "gdp-comunicados",
+      "archiveUrl": "https://web.archive.org/web/20260417131351/https://www.grupodepuebla.org/en/comunicados/",
+      "timestamp": "20260417131351",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/declaracion-del-grupo-de-puebla-y-del-consejo-latinoamericano-de-justicia-y-democracia-clajud-sobre-la-situacion-de-julian-assange/": {
+      "refId": "gdp-assange",
+      "archiveUrl": "https://web.archive.org/web/20260316145026/https://www.grupodepuebla.org/en/declaracion-del-grupo-de-puebla-y-del-consejo-latinoamericano-de-justicia-y-democracia-clajud-sobre-la-situacion-de-julian-assange/",
+      "timestamp": "20260316145026",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/desde-honduras-el-grupo-de-puebla-llama-a-plan-de-accion-para-frenar-el-neofascismo/": {
+      "refId": "gdp-neofascismo",
+      "archiveUrl": "https://web.archive.org/web/20260209002536/https://www.grupodepuebla.org/en/desde-honduras-el-grupo-de-puebla-llama-a-plan-de-accion-para-frenar-el-neofascismo/",
+      "timestamp": "20260209002536",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/encuentro-virtual/": {
+      "refId": "gdp-virtual",
+      "archiveUrl": "https://web.archive.org/web/20260316145708/https://www.grupodepuebla.org/en/encuentro-virtual/",
+      "timestamp": "20260316145708",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/encuentros/": {
+      "refId": "gdp-encuentros",
+      "archiveUrl": "https://web.archive.org/web/20250117014638/https://www.grupodepuebla.org/en/encuentros/",
+      "timestamp": "20250117014638",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/fundadores/": {
+      "refId": "gdp-fundadores",
+      "archiveUrl": "https://web.archive.org/web/20260412052233/https://www.grupodepuebla.org/en/fundadores/",
+      "timestamp": "20260412052233",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/grupo-de-puebla-5-anos-impulsando-el-cambio-en-iberoamerica/": {
+      "refId": "gdp-5anos",
+      "archiveUrl": "https://web.archive.org/web/20250909063944/https://www.grupodepuebla.org/en/grupo-de-puebla-5-anos-impulsando-el-cambio-en-iberoamerica/",
+      "timestamp": "20250909063944",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/grupo-de-puebla-responde-a-milei-ocupese-de-lo-importante/": {
+      "refId": "gdp-milei",
+      "archiveUrl": "https://web.archive.org/web/20251115174940/https://www.grupodepuebla.org/en/grupo-de-puebla-responde-a-milei-ocupese-de-lo-importante/",
+      "timestamp": "20251115174940",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/ix-encuentro-puebla/": {
+      "refId": "gdp-encuentro9",
+      "archiveUrl": "https://web.archive.org/web/20260306121511/https://www.grupodepuebla.org/en/ix-encuentro-puebla/",
+      "timestamp": "20260306121511",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/por-la-democracia-y-contra-la-ultraderecha/": {
+      "refId": "gdp-democracia",
+      "archiveUrl": "https://web.archive.org/web/20260215115249/https://www.grupodepuebla.org/en/por-la-democracia-y-contra-la-ultraderecha/",
+      "timestamp": "20260215115249",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/en/x-encuentro-honduras/": {
+      "refId": "gdp-encuentro10",
+      "archiveUrl": "https://web.archive.org/web/20260412063238/https://www.grupodepuebla.org/en/x-encuentro-honduras/",
+      "timestamp": "20260412063238",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/encuentro-de-puebla/": {
+      "refId": "gdp-encuentro1",
+      "archiveUrl": "https://web.archive.org/web/20260518185025/https://www.grupodepuebla.org/encuentro-de-puebla/",
+      "timestamp": "20260518185025",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/ii-encuentro-ciudad-autonoma-de-buenos-aires/": {
+      "refId": "gdp-encuentro2",
+      "archiveUrl": "https://web.archive.org/web/20260518185025/https://www.grupodepuebla.org/ii-encuentro-ciudad-autonoma-de-buenos-aires/",
+      "timestamp": "20260518185025",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/pepe-mujica-el-grupo-de-puebla-despide-al-hombre-que-sirvio-sin-privilegios/": {
+      "refId": "gdp-mujica",
+      "archiveUrl": "https://web.archive.org/web/20260226195705/https://www.grupodepuebla.org/pepe-mujica-el-grupo-de-puebla-despide-al-hombre-que-sirvio-sin-privilegios/",
+      "timestamp": "20260226195705",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/vii-encuentro-ciudad-de-mexico/": {
+      "refId": "gdp-encuentro7",
+      "archiveUrl": "https://web.archive.org/web/20260518185025/https://www.grupodepuebla.org/vii-encuentro-ciudad-de-mexico/",
+      "timestamp": "20260518185025",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/viii-encuentro-santa-marta/": {
+      "refId": "gdp-encuentro8",
+      "archiveUrl": "https://web.archive.org/web/20260509225524/https://www.grupodepuebla.org/viii-encuentro-santa-marta/",
+      "timestamp": "20260509225524",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.grupodepuebla.org/wp-content/uploads/2021/02/PUEBLA-MANIFIESTO.pdf": {
+      "refId": "gdp-manifiesto-pdf",
+      "archiveUrl": "https://web.archive.org/web/20240223224947/https://www.grupodepuebla.org/wp-content/uploads/2021/02/PUEBLA-MANIFIESTO.pdf",
+      "timestamp": "20240223224947",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.infobae.com/america/agencias/2024/10/04/el-grupo-de-puebla-se-muestra-preocupado-por-campana-de-lawfare-contra-evo-morales/": {
+      "refId": "infobae-evo",
+      "archiveUrl": "https://web.archive.org/web/20241113145903/https://www.infobae.com/america/agencias/2024/10/04/el-grupo-de-puebla-se-muestra-preocupado-por-campana-de-lawfare-contra-evo-morales/",
+      "timestamp": "20241113145903",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.infobae.com/america/opinion/2023/10/08/el-grupo-de-puebla-el-relevo-del-foro-de-sao-paulo/": {
+      "refId": "infobae-relevo",
+      "archiveUrl": "https://web.archive.org/web/20231024134035/https://www.infobae.com/america/opinion/2023/10/08/el-grupo-de-puebla-el-relevo-del-foro-de-sao-paulo/",
+      "timestamp": "20231024134035",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.infobae.com/politica/2019/11/11/el-grupo-de-puebla-condeno-la-persecucion-arbitraria-a-lideres-y-lideresas-progresistas/": {
+      "refId": "infobae-persecucion",
+      "archiveUrl": "https://web.archive.org/web/20191218172732/https://www.infobae.com/politica/2019/11/11/el-grupo-de-puebla-condeno-la-persecucion-arbitraria-a-lideres-y-lideresas-progresistas/",
+      "timestamp": "20191218172732",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.libertaddigital.com/internacional/latinoamerica/2024-08-17/el-lamentable-comunicado-del-feminista-grupo-de-puebla-no-expulsa-a-alberto-fernandez-por-pegar-a-su-mujer-7155975/": {
+      "refId": "libertaddigital-fernandez",
+      "archiveUrl": "https://web.archive.org/web/20260214011344/https://www.libertaddigital.com/internacional/latinoamerica/2024-08-17/el-lamentable-comunicado-del-feminista-grupo-de-puebla-no-expulsa-a-alberto-fernandez-por-pegar-a-su-mujer-7155975/",
+      "timestamp": "20260214011344",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.newtral.es/grupo-de-puebla/20240807/": {
+      "refId": "newtral-explainer",
+      "archiveUrl": "https://web.archive.org/web/20240915161147/https://www.newtral.es/grupo-de-puebla/20240807/",
+      "timestamp": "20240915161147",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.nodal.am/2019/11/declaracion-final-del-ii-encuentro-del-grupo-de-puebla/": {
+      "refId": "nodal-declaracion2",
+      "archiveUrl": "https://web.archive.org/web/20220628130248/https://www.nodal.am/2019/11/declaracion-final-del-ii-encuentro-del-grupo-de-puebla/",
+      "timestamp": "20220628130248",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.pagina12.com.ar/230079-el-mensaje-de-lula-al-grupo-de-puebla": {
+      "refId": "pagina12-lula",
+      "archiveUrl": "https://web.archive.org/web/20250619090558/https://www.pagina12.com.ar/230079-el-mensaje-de-lula-al-grupo-de-puebla",
+      "timestamp": "20250619090558",
+      "checkedAt": "2026-07-30"
+    },
+    "https://www.perfil.com/noticias/internacional/grupo-de-puebla-manifesto-evo-morales-sufrio-golpe-de-estado-bolivia.phtml": {
+      "refId": "perfil-bolivia",
+      "archiveUrl": "https://web.archive.org/web/20250114132141/https://www.perfil.com/noticias/internacional/grupo-de-puebla-manifesto-evo-morales-sufrio-golpe-de-estado-bolivia.phtml",
+      "timestamp": "20250114132141",
+      "checkedAt": "2026-07-30"
+    }
+  }
+}
