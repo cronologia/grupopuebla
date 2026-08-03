@@ -1,12 +1,24 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-08-03",
   "snapshots": {
     "http://www.cubadebate.cu/noticias/2021/02/11/grupo-de-puebla-presenta-manifiesto-progresista-para-contrarrestar-al-neoliberalismo/": {
       "refId": "cubadebate-manifiesto",
       "archiveUrl": "https://web.archive.org/web/20220927145202/http://www.cubadebate.cu/noticias/2021/02/11/grupo-de-puebla-presenta-manifiesto-progresista-para-contrarrestar-al-neoliberalismo/",
       "timestamp": "20220927145202",
       "checkedAt": "2026-07-30"
+    },
+    "http://www.lanacion.cl/enriquez-ominami-encabezo-celebracion-del-primer-aniversario-de-grupo-de-puebla-con-un-llamado-a-la-unidad-regional/": {
+      "refId": "lanacion-aniversario",
+      "archiveUrl": "https://web.archive.org/web/20260513074513/https://www.lanacion.cl/enriquez-ominami-encabezo-celebracion-del-primer-aniversario-de-grupo-de-puebla-con-un-llamado-a-la-unidad-regional/",
+      "timestamp": "20260513074513",
+      "checkedAt": "2026-08-03"
+    },
+    "https://brujuladigital.net/politica/2024/06/27/gobierno-responde-al-grupo-de-puebla-y-dice-que-el-golpe-de-estado-esta-articulado-y-financiado-por-la-derecha-34713": {
+      "refId": "brujula-zuniga",
+      "archiveUrl": "https://web.archive.org/web/20260803100908/https://brujuladigital.net/politica/2024/06/27/gobierno-responde-al-grupo-de-puebla-y-dice-que-el-golpe-de-estado-esta-articulado-y-financiado-por-la-derecha-34713",
+      "timestamp": "20260803100908",
+      "checkedAt": "2026-08-03"
     },
     "https://dialogopolitico.org/agenda/izquierda-autoritaria-galaxia-rosa-honduras/": {
       "refId": "dialogo-galaxia",
@@ -176,6 +188,12 @@
       "timestamp": "20260306121511",
       "checkedAt": "2026-07-30"
     },
+    "https://www.grupodepuebla.org/en/manifiestoprogresista/": {
+      "refId": "gdp-manifiesto",
+      "archiveUrl": "https://web.archive.org/web/20250325113609/https://www.grupodepuebla.org/en/manifiestoprogresista/",
+      "timestamp": "20250325113609",
+      "checkedAt": "2026-08-03"
+    },
     "https://www.grupodepuebla.org/en/por-la-democracia-y-contra-la-ultraderecha/": {
       "refId": "gdp-democracia",
       "archiveUrl": "https://web.archive.org/web/20260215115249/https://www.grupodepuebla.org/en/por-la-democracia-y-contra-la-ultraderecha/",
@@ -271,6 +289,24 @@
       "archiveUrl": "https://web.archive.org/web/20250114132141/https://www.perfil.com/noticias/internacional/grupo-de-puebla-manifesto-evo-morales-sufrio-golpe-de-estado-bolivia.phtml",
       "timestamp": "20250114132141",
       "checkedAt": "2026-07-30"
+    },
+    "https://www.sela.org/grupo-de-puebla-celebra-en-mexico-su-ix-encuentro/": {
+      "refId": "sela-ix",
+      "archiveUrl": "https://web.archive.org/web/20260803100819/https://www.sela.org/grupo-de-puebla-celebra-en-mexico-su-ix-encuentro/",
+      "timestamp": "20260803100819",
+      "checkedAt": "2026-08-03"
+    },
+    "https://www.swissinfo.ch/spa/foro-de-s%C3%A3o-paulo-y-grupo-de-puebla,-en-honduras-para-los-15-a%C3%B1os-del-golpe-contra-zelaya/81684246": {
+      "refId": "swissinfo-tegucigalpa",
+      "archiveUrl": "https://web.archive.org/web/20260803100955/https://www.swissinfo.ch/spa/foro-de-s%C3%A3o-paulo-y-grupo-de-puebla,-en-honduras-para-los-15-a%C3%B1os-del-golpe-contra-zelaya/81684246",
+      "timestamp": "20260803100955",
+      "checkedAt": "2026-08-03"
+    },
+    "https://www.vision360.bo/noticias/2024/08/10/9871-grupo-de-puebla-suspende-a-alberto-fernandez-tras-denuncia-por-violencia-de-genero": {
+      "refId": "vision360-fernandez",
+      "archiveUrl": "https://web.archive.org/web/20260518155652/https://www.vision360.bo/noticias/2024/08/10/9871-grupo-de-puebla-suspende-a-alberto-fernandez-tras-denuncia-por-violencia-de-genero",
+      "timestamp": "20260518155652",
+      "checkedAt": "2026-08-03"
     }
   }
 }
