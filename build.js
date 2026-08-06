@@ -224,6 +224,29 @@ function translator(dict) {
  * empty dictionary (English) the values are unchanged, so the render stays
  * byte-identical to a pre-i18n build.
  */
+/**
+ * Every string this build would send through the dictionaries, in walk order,
+ * deduplicated. Mirrors localizeData's walk below -- and is imported by
+ * scripts/translate.js instead of being reimplemented there, because the
+ * reimplementation drifted (cronologia/core#81, #82). A test asserts the two
+ * visit the same set.
+ */
+function collectTranslatable(data) {
+  const out = [];
+  const seen = new Set();
+  const walk = (val, key) => {
+    if (key === 'references') return;
+    if (Array.isArray(val)) { val.forEach((v) => walk(v, key)); return; }
+    if (val && typeof val === 'object') { for (const k of Object.keys(val)) walk(val[k], k); return; }
+    if (typeof val === 'string' && val.trim() && TRANSLATABLE_KEYS.has(key) && !seen.has(val)) {
+      seen.add(val);
+      out.push(val);
+    }
+  };
+  walk(data, null);
+  return out;
+}
+
 function localizeData(data, dict, lang) {
   const t = translator(dict);
   const walk = (val, key) => {
@@ -1840,5 +1863,6 @@ module.exports = {
   loadPlaces, loadWorld,
   renderPage,
   LOCALES, ROUTES, OG_LOCALE, UI, loadDict, siteBase, translator, localizeData,
+  TRANSLATABLE_KEYS, collectTranslatable,
   alternates, seoHead, langSwitcher, renderRootStub, renderSitemap, renderRobots,
 };
