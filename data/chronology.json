@@ -532,57 +532,63 @@
       "id": "gdp-encuentro1",
       "title": "Encuentro de Puebla (I Encuentro, July 2019)",
       "url": "https://www.grupodepuebla.org/encuentro-de-puebla/",
-      "publisher": "Grupo de Puebla (official — volatile, archive)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official",
+      "publisherNote": "volatile page — archived where possible"
     },
     {
       "id": "redh-declaracion",
       "title": "Declaración de Puebla (full text mirror, July 2019)",
       "url": "https://redh-cuba.org/2019/07/declaracion-de-puebla/",
-      "publisher": "REDH (mirror of primary text)",
-      "type": "primary"
+      "publisher": "REDH",
+      "type": "web",
+      "publisherNote": "mirror of primary text"
     },
     {
       "id": "wikipedia-es",
       "title": "Grupo de Puebla",
       "url": "https://es.wikipedia.org/wiki/Grupo_de_Puebla",
-      "publisher": "Wikipedia (ES) — EN has no article as of July 2026",
-      "type": "encyclopedia"
+      "publisher": "Wikipedia (ES)",
+      "type": "encyclopedia",
+      "publisherNote": "EN has no article as of July 2026"
     },
     {
       "id": "gdp-fundadores",
       "title": "Grupo de Puebla — Fundadores (member list; fluctuates, retrieved July 2026)",
       "url": "https://www.grupodepuebla.org/en/fundadores/",
-      "publisher": "Grupo de Puebla (official — volatile, archive)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official",
+      "publisherNote": "volatile page — archived where possible"
     },
     {
       "id": "gdp-encuentros",
       "title": "Grupo de Puebla — Encuentros index",
       "url": "https://www.grupodepuebla.org/en/encuentros/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "gdp-comunicados",
       "title": "Grupo de Puebla — Comunicados",
       "url": "https://www.grupodepuebla.org/en/comunicados/",
-      "publisher": "Grupo de Puebla (official — volatile)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official",
+      "publisherNote": "volatile page"
     },
     {
       "id": "gdp-encuentro2",
       "title": "II Encuentro, Ciudad Autónoma de Buenos Aires",
       "url": "https://www.grupodepuebla.org/ii-encuentro-ciudad-autonoma-de-buenos-aires/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "pagina12-lula",
       "title": "El mensaje de Lula al Grupo de Puebla (November 2019)",
       "url": "https://www.pagina12.com.ar/230079-el-mensaje-de-lula-al-grupo-de-puebla",
-      "publisher": "Página12 (left-leaning)",
-      "type": "news"
+      "publisher": "Página12",
+      "type": "news",
+      "publisherNote": "left-leaning"
     },
     {
       "id": "nodal-declaracion2",
@@ -609,22 +615,23 @@
       "id": "gdp-clajud",
       "title": "CLAJUD — Consejo Latinoamericano de Justicia y Democracia",
       "url": "https://www.grupodepuebla.org/en/clajud/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "emol-clajud",
       "title": "Grupo de Puebla lanza consejo jurídico con Baltasar Garzón (January 2020)",
       "url": "https://www.emol.com/noticias/Internacional/2020/01/24/974540/Grupo-Puebla-Baltasar-Garzon-DDHH.html",
-      "publisher": "Emol (center-right)",
-      "type": "news"
+      "publisher": "Emol",
+      "type": "news",
+      "publisherNote": "center-right"
     },
     {
       "id": "gdp-virtual",
       "title": "Encuentro virtual (pandemic phase)",
       "url": "https://www.grupodepuebla.org/en/encuentro-virtual/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "lanacion-aniversario",
@@ -637,57 +644,61 @@
       "id": "gdp-manifiesto-pdf",
       "title": "Manifiesto Progresista (official PDF, February 2021)",
       "url": "https://www.grupodepuebla.org/wp-content/uploads/2021/02/PUEBLA-MANIFIESTO.pdf",
-      "publisher": "Grupo de Puebla (primary)",
-      "type": "primary"
+      "publisher": "Grupo de Puebla",
+      "type": "official",
+      "publisherNote": "primary text"
     },
     {
       "id": "gdp-manifiesto",
       "title": "Manifiesto Progresista (landing page)",
       "url": "https://www.grupodepuebla.org/en/manifiestoprogresista/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "cubadebate-manifiesto",
       "title": "Grupo de Puebla presenta Manifiesto Progresista (11 February 2021)",
       "url": "http://www.cubadebate.cu/noticias/2021/02/11/grupo-de-puebla-presenta-manifiesto-progresista-para-contrarrestar-al-neoliberalismo/",
-      "publisher": "Cubadebate (state-aligned, sympathetic)",
-      "type": "news"
+      "publisher": "Cubadebate",
+      "type": "news",
+      "publisherNote": "state-aligned, sympathetic"
     },
     {
       "id": "gdp-encuentro7",
       "title": "VII Encuentro, Ciudad de México (November–December 2021)",
       "url": "https://www.grupodepuebla.org/vii-encuentro-ciudad-de-mexico/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "emol-boric",
       "title": "Grupo de Puebla expresa apoyo a Boric (November 2021)",
       "url": "https://www.emol.com/noticias/Internacional/2021/11/30/1039967/grupo-puebla-apoyo-boric-elecciones.html",
-      "publisher": "Emol (center-right)",
-      "type": "news"
+      "publisher": "Emol",
+      "type": "news",
+      "publisherNote": "center-right"
     },
     {
       "id": "gdp-assange",
       "title": "Declaración del Grupo de Puebla y CLAJUD sobre Julian Assange (December 2021)",
       "url": "https://www.grupodepuebla.org/en/declaracion-del-grupo-de-puebla-y-del-consejo-latinoamericano-de-justicia-y-democracia-clajud-sobre-la-situacion-de-julian-assange/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "lulalivre-assange",
       "title": "Lula e Dilma se manifestam pela liberdade de Assange (December 2021)",
       "url": "https://lulalivre.org.br/2021/12/13/lula-e-dilma-se-manifestam-pela-liberdade-de-assange-junto-ao-grupo-de-puebla/",
-      "publisher": "Lula Livre (sympathetic)",
-      "type": "news"
+      "publisher": "Lula Livre",
+      "type": "news",
+      "publisherNote": "sympathetic"
     },
     {
       "id": "gdp-encuentro8",
       "title": "VIII Encuentro, Santa Marta (November 2022)",
       "url": "https://www.grupodepuebla.org/viii-encuentro-santa-marta/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "biobio-boric",
@@ -700,43 +711,47 @@
       "id": "gdp-encuentro9",
       "title": "IX Encuentro, Puebla (September–October 2023)",
       "url": "https://www.grupodepuebla.org/en/ix-encuentro-puebla/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "sela-ix",
       "title": "Grupo de Puebla celebra en México su IX Encuentro (SELA)",
       "url": "https://www.sela.org/grupo-de-puebla-celebra-en-mexico-su-ix-encuentro/",
-      "publisher": "SELA (intergovernmental)",
-      "type": "official-site"
+      "publisher": "SELA",
+      "type": "official",
+      "publisherNote": "intergovernmental"
     },
     {
       "id": "interferencia-ix",
       "title": "IX Encuentro: 'advertimos el crecimiento de una derecha antidemocrática' (Interferencia)",
       "url": "https://interferencia.cl/articulos/ixo-encuentro-del-grupo-de-puebla-advertimos-el-crecimiento-en-latinoamerica-de-una",
-      "publisher": "Interferencia (left-leaning)",
-      "type": "news"
+      "publisher": "Interferencia",
+      "type": "news",
+      "publisherNote": "left-leaning"
     },
     {
       "id": "gdp-milei",
       "title": "Grupo de Puebla responde a Milei: 'Ocúpese de lo importante' (May 2024)",
       "url": "https://www.grupodepuebla.org/en/grupo-de-puebla-responde-a-milei-ocupese-de-lo-importante/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "emol-milei",
       "title": "La respuesta del Grupo de Puebla a Milei (Emol, May 2024)",
       "url": "https://www.emol.com/noticias/Internacional/2024/05/23/1131610/grupo-puebla-respuesta-milei.html",
-      "publisher": "Emol (center-right)",
-      "type": "news"
+      "publisher": "Emol",
+      "type": "news",
+      "publisherNote": "center-right"
     },
     {
       "id": "rpp-disenso",
       "title": "Milei como 'alternativa al Grupo de Puebla y al Foro de São Paulo' (Fundación Disenso, via RPP)",
       "url": "https://rpp.pe/mundo/argentina/javier-milei-una-alternativa-en-argentina-al-grupo-de-puebla-y-al-foro-de-sao-paulo-senalo-director-de-disenso-noticia-1518052",
-      "publisher": "RPP (attributed right-wing framing)",
-      "type": "news"
+      "publisher": "RPP",
+      "type": "news",
+      "publisherNote": "attributed right-wing framing"
     },
     {
       "id": "brujula-zuniga",
@@ -749,43 +764,45 @@
       "id": "gdp-encuentro10",
       "title": "X Encuentro, Honduras (June 2024)",
       "url": "https://www.grupodepuebla.org/en/x-encuentro-honduras/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "gdp-neofascismo",
       "title": "Desde Honduras, llamado a un plan de acción para frenar el neofascismo (June 2024)",
       "url": "https://www.grupodepuebla.org/en/desde-honduras-el-grupo-de-puebla-llama-a-plan-de-accion-para-frenar-el-neofascismo/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "swissinfo-tegucigalpa",
       "title": "Foro de São Paulo y Grupo de Puebla, en Honduras para los 15 años del golpe contra Zelaya (EFE/SwissInfo, June 2024)",
       "url": "https://www.swissinfo.ch/spa/foro-de-s%C3%A3o-paulo-y-grupo-de-puebla,-en-honduras-para-los-15-a%C3%B1os-del-golpe-contra-zelaya/81684246",
-      "publisher": "SwissInfo/EFE (wire)",
+      "publisher": "SwissInfo/EFE",
       "type": "news"
     },
     {
       "id": "dialogo-galaxia",
       "title": "Izquierda autoritaria: la 'galaxia rosa' en Honduras (Diálogo Político/KAS — critical)",
       "url": "https://dialogopolitico.org/agenda/izquierda-autoritaria-galaxia-rosa-honduras/",
-      "publisher": "Diálogo Político (Konrad-Adenauer-Stiftung — critical, labeled)",
-      "type": "critical"
+      "publisher": "Diálogo Político (Konrad-Adenauer-Stiftung)",
+      "type": "analysis",
+      "publisherNote": "critical — labeled"
     },
     {
       "id": "gdp-venezuela",
       "title": "Comunicado sobre las elecciones en Venezuela (July 2024)",
       "url": "https://www.grupodepuebla.org/en/comunicado-de-prensa-del-grupo-de-puebla-sobre-las-elecciones-en-venezuela/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "emol-crisis",
       "title": "El complicado momento del Grupo de Puebla (Emol, August 2024)",
       "url": "https://www.emol.com/noticias/Internacional/2024/08/09/1139184/grupo-puebla-cuestionamientos-venezuela-albertofernandez.html",
-      "publisher": "Emol (center-right)",
-      "type": "news"
+      "publisher": "Emol",
+      "type": "news",
+      "publisherNote": "center-right"
     },
     {
       "id": "vision360-fernandez",
@@ -798,8 +815,9 @@
       "id": "libertaddigital-fernandez",
       "title": "Critical coverage of the Fernández suspension (Libertad Digital — right-leaning, labeled)",
       "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-08-17/el-lamentable-comunicado-del-feminista-grupo-de-puebla-no-expulsa-a-alberto-fernandez-por-pegar-a-su-mujer-7155975/",
-      "publisher": "Libertad Digital (right-leaning — labeled)",
-      "type": "critical"
+      "publisher": "Libertad Digital",
+      "type": "news",
+      "publisherNote": "right-leaning — labeled"
     },
     {
       "id": "infobae-evo",
@@ -812,15 +830,15 @@
       "id": "gdp-5anos",
       "title": "Grupo de Puebla: 5 años impulsando el cambio en Iberoamérica (2024)",
       "url": "https://www.grupodepuebla.org/en/grupo-de-puebla-5-anos-impulsando-el-cambio-en-iberoamerica/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "gdp-mujica",
       "title": "Pepe Mujica: el Grupo de Puebla despide al hombre que sirvió sin privilegios (May 2025)",
       "url": "https://www.grupodepuebla.org/pepe-mujica-el-grupo-de-puebla-despide-al-hombre-que-sirvio-sin-privilegios/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "diariolibre-mujica",
@@ -833,15 +851,16 @@
       "id": "gdp-democracia",
       "title": "Por la democracia y contra la ultraderecha (July 2025)",
       "url": "https://www.grupodepuebla.org/en/por-la-democracia-y-contra-la-ultraderecha/",
-      "publisher": "Grupo de Puebla (official)",
-      "type": "official-site"
+      "publisher": "Grupo de Puebla",
+      "type": "official"
     },
     {
       "id": "cubainformacion-venezuela",
       "title": "Grupo de Puebla e Internacional Progresista condenan cerco a Venezuela (December 2025)",
       "url": "https://www.cubainformacion.tv/america-latina/20251224/119737/119737-grupo-de-puebla-e-internacional-progresista-condenan-cerco-a-venezuela",
-      "publisher": "Cubainformación (state-aligned, sympathetic — labeled)",
-      "type": "news"
+      "publisher": "Cubainformación",
+      "type": "news",
+      "publisherNote": "state-aligned, sympathetic — labeled"
     },
     {
       "id": "wikipedia-pi",
@@ -854,29 +873,33 @@
       "id": "gisreports-fsp",
       "title": "The São Paulo Forum and the Puebla Group (GIS Reports — critical framing, labeled)",
       "url": "https://www.gisreportsonline.com/r/sao-paulo-forum/",
-      "publisher": "GIS Reports (critical — labeled)",
-      "type": "critical"
+      "publisher": "GIS Reports",
+      "type": "analysis",
+      "publisherNote": "critical — labeled"
     },
     {
       "id": "diariolasamericas-mito",
       "title": "'Grupo de Puebla: nuevo rostro del moribundo Foro de São Paulo' (the renaming narrative — attributed)",
       "url": "https://www.diariolasamericas.com/america-latina/grupo-puebla-nuevo-rostro-del-moribundo-foro-sao-paulo-n4219665",
-      "publisher": "Diario Las Américas (opinion — the claim this project rebuts)",
-      "type": "critical"
+      "publisher": "Diario Las Américas",
+      "type": "analysis",
+      "publisherNote": "opinion — the claim this project rebuts"
     },
     {
       "id": "infobae-relevo",
       "title": "'¿El Grupo de Puebla, el relevo del Foro de São Paulo?' (opinion — attributed)",
       "url": "https://www.infobae.com/america/opinion/2023/10/08/el-grupo-de-puebla-el-relevo-del-foro-de-sao-paulo/",
-      "publisher": "Infobae (opinion — labeled)",
-      "type": "critical"
+      "publisher": "Infobae",
+      "type": "analysis",
+      "publisherNote": "opinion — labeled"
     },
     {
       "id": "newtral-explainer",
       "title": "Qué es el Grupo de Puebla (Newtral fact-check explainer, 2024)",
       "url": "https://www.newtral.es/grupo-de-puebla/20240807/",
-      "publisher": "Newtral (fact-checker)",
-      "type": "news"
+      "publisher": "Newtral",
+      "type": "news",
+      "publisherNote": "fact-checker"
     },
     {
       "id": "exante-boric",
