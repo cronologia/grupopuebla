@@ -4,6 +4,7 @@
     "subtitle": "Chronology of the Grupo de Puebla — the Latin American progressive forum of individuals (2019–present)",
     "description": "An open, source-referenced chronology of the Grupo de Puebla, the forum of Latin American (and southern-European) progressive leaders founded in Puebla, Mexico, in July 2019: its encuentros, declarations, CLAJUD, and its constantly conflated — but institutionally separate — relationship to the Foro de São Paulo.",
     "language": "en",
+    "layout": "river",
     "siteUrl": "https://cronologia.github.io/grupopuebla/",
     "lastUpdated": "2026-07-19",
     "dataQualityNote": "Work-in-progress dataset on a young, politically contested organization. Official grupodepuebla.org pages are volatile (the site has already been reorganized) and are archived where possible; the 'renamed Foro de São Paulo' narrative comes from opinion journalism and is presented as an attributed claim, rebutted with the documented coexistence of both organizations; membership lists fluctuate and are dated. Corrections against primary sources are welcome."
