@@ -2,7 +2,8 @@
   "_meta": {
     "targetLang": "es",
     "generatedBy": "LLM translation (Claude); English is authoritative (core#9). Attributed claims keep their hedges and attribution; quoted Spanish declarations pass through verbatim.",
-    "keying": "exact English source string from data/chronology.json"
+    "keying": "exact English source string from data/chronology.json",
+    "coverage": "125/125"
   },
   "strings": {
     "'Democracia Siempre' — not a GdP event": "'Democracia Siempre' — no es un evento del GdP",
@@ -127,6 +128,8 @@
     "volatile page — archived where possible": "página volátil — archivada cuando es posible",
     "≠ the 'Democracia Siempre' summit": "≠ la cumbre 'Democracia Siempre'",
     "≠ the Progressive International": "≠ la Internacional Progresista",
-    "≠ the Puebla Conference of 1979": "≠ la Conferencia de Puebla de 1979"
+    "≠ the Puebla Conference of 1979": "≠ la Conferencia de Puebla de 1979",
+    "2019 (agreed) / 2020 (launched)": "2019 (acordada) / 2020 (lanzada)",
+    "2018/2020": "2018/2020"
   }
 }

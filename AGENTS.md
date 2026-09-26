@@ -17,6 +17,7 @@ compiles it into static HTML served by GitHub Pages.
 ```
 data/chronology.json     SOURCE OF TRUTH — facts, events, figures, organizations, references (hand-edited)
 src/styles.css           Stylesheet (copied into the build)
+src/river.js             Time-river filters, find box and reading window (core#108); copied into the build only when meta.layout is "river"
 scripts/validate-data.js Schema check (runs in CI before the build)
 build.js                 Compiler: data/chronology.json -> docs/
 test/                    node:test suites (helpers + data invariants + drift check)
